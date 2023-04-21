@@ -1,0 +1,45 @@
+footer {
+  text-align: center;
+  font-size: 0.6rem;
+  color: #fff;
+  padding: 5px 0;
+  background: #00159F;
+}
+
+footer .copyright {
+  margin-bottom: 0rem;
+}
+
+.hero-single {
+  height: 40vh;
+}
+
+.hero-single .hero-content {
+  margin-top: 30px;
+}
+
+.hero-single .hero-title {
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+
+.overlay-mf {
+  background-color: #00159F;
+}
+
+.post-box {
+  background-color: #F5F5F5;
+  font-size: 1rem;
+}
+
+.post-thumb {
+  text-align: center;
+}
+
+.parag {
+  inline-size: hw;
+}
+
+.overlay-mf-light
+  background-color: #a0a0a0;
+}
