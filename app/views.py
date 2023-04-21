@@ -4,7 +4,7 @@ from django.core.mail import send_mail, EmailMessage, get_connection
 from MY_WEBSITE import settings
 from .admin import *
 
-# Create your views here.
+# Create your views here
 
 def hero_image_url(request):
     return request._current_scheme_host + WebData.objects.all()[0].profile_pic.url
