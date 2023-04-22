@@ -1,7 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import HttpResponse
 from django.core.mail import send_mail, EmailMessage, get_connection
-from MY_WEBSITE import settings
 from .admin import *
 
 # Create your views here
